@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://liamslost.github.io/splitter-app",
+  "homepage": "https://Liamslost.github.io/splitter-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
